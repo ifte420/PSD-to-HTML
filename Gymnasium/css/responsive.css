@@ -62,11 +62,11 @@
     }
 
     .main_menu .navbar-brand img {
-        padding: 10px 0 0 40px;
+        padding: 0px 0 0 40px;
     }
 
     .main_menu .navbar-nav .nav-item .nav-link {
-        padding: 0 7px;
+        padding: 0 6px;
     }
 
     .ifte p::after {
@@ -645,7 +645,7 @@
     .footer_last_right ul li {
         padding-bottom: 10px;
     }
-    
+
     .footer_inner p {
         padding: 10px;
     }
