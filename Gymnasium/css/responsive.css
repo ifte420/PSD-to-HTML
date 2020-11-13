@@ -1,0 +1,650 @@
+@media (min-width: 1200px) {}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+
+    /*================= Menu Part Start ================= */
+    .ifte p::before {
+        right: -72px;
+    }
+
+    .ifte p::after {
+        left: -93px;
+    }
+
+    .ifte h1::before {
+        right: -72px;
+        top: 1px;
+    }
+
+    .ifte h1::after {
+        left: -93px;
+        top: 1px;
+    }
+
+    .ifte h2::before {
+        right: -71px;
+        top: 31px;
+        width: 131px;
+    }
+
+    .ifte h2::after {
+        left: -93px;
+        top: 28px;
+        width: 214px;
+    }
+
+    /*================= Menu Part End ================= */
+
+    /*================= Class Part End ================= */
+    .class_text ul li {
+        width: 19.58%;
+    }
+
+    /*================= Class Part End ================= */
+    /*================= Footer Part Start ================= */
+    .days {
+        margin: 12px 0;
+    }
+
+    .time {
+        margin-bottom: -1.3px;
+    }
+
+    /*================= Footer Part End ================= */
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /*=================  Menu Part Start ================= */
+    .main_menu .navbar-brand {
+        width: 220px;
+    }
+
+    .main_menu .navbar-brand img {
+        padding: 10px 0 0 40px;
+    }
+
+    .main_menu .navbar-nav .nav-item .nav-link {
+        padding: 0 7px;
+    }
+
+    .ifte p::after {
+        width: 123px;
+    }
+
+    .ifte p::before {
+        width: 69px;
+    }
+
+    .ifte h2::before {
+        width: 170px;
+    }
+
+    .ifte h2::after {
+        width: 238px;
+    }
+
+    /*=================  Menu Part End ================= */
+    /*================= About Part End ================= */
+    #about_part {
+        padding: 55px 0;
+    }
+
+    .about_text p span {
+        padding-top: 15px;
+        padding-bottom: 27px;
+    }
+
+    /*================= About Part End ================= */
+
+
+
+    /*================= Gallery Part End ================= */
+    .vbox-next {
+        right: 20%;
+    }
+
+    .vbox-prev {
+        left: 20%;
+    }
+
+    /*================= Gallery Part End ================= */
+
+    /*================= Team Part End ================= */
+    #team_part {
+        padding: 55px 0;
+    }
+
+
+
+    /*================= Team Part End ================= */
+
+    /*================= Membership Part End ================= */
+    #membership_part {
+        padding: 55px 0;
+    }
+
+    .pricing_text h3 {
+        padding: 15px 0;
+    }
+
+    .pricing_text h2 {
+        padding: 25px 0;
+        font-size: 46px;
+    }
+
+    .pricing_text ul li {
+        padding-bottom: 9px;
+    }
+
+    /*================= Membership Part End ================= */
+
+    /*================= Class Part End ================= */
+    #class_part {
+        padding: 55px 0;
+    }
+
+    .class_text ul li {
+        width: 19.42%;
+        padding: 5px 0;
+    }
+
+    .class_text ul li i {
+        font-size: 43px;
+    }
+
+    .class_text ul li h6 {
+        font-size: 14px;
+    }
+
+    /*================= Class Part End ================= */
+
+    /*================= Clicnt Part End =================*/
+    .client_logo .col a {
+        margin-bottom: 55px;
+    }
+
+    /*================= Clicnt Part End =================*/
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    /*=================  Menu Part Start ================= */
+    .main_menu {
+        top: 0px;
+        background: #e23e38;
+    }
+
+    .main_menu .navbar-brand {
+        width: 200px;
+        height: 50px;
+    }
+
+    .main_menu .navbar-brand img {
+        padding: 0px 28px;
+    }
+
+    .main_menu button i {
+        color: #ffff;
+    }
+
+    .main_menu button:focus {
+        outline: 0;
+    }
+
+    .main_menu .navbar-nav {
+        background: #e23e38;
+        text-align: center;
+        border-top: 1px solid rgba(255, 255, 255, 0.43);
+        padding: 10px 0;
+    }
+
+    .main_menu .navbar-nav .nav-item .nav-link::after {
+        display: none;
+    }
+
+    .main_menu .navbar-nav .nav-item .nav-link {
+        line-height: 45px;
+    }
+
+    /*================= Menu Part End =================*/
+
+    /*================= Banner Part Start =================*/
+    .banner_item {
+        padding: 175px 0 80px;
+    }
+
+    .ifte h2::before {
+        display: none;
+    }
+
+    .ifte h2::after {
+        display: none;
+    }
+
+    .ifte h1::after {
+        display: none;
+    }
+
+    .ifte h1::before {
+        display: none;
+    }
+
+    .ifte p::after {
+        display: none;
+    }
+
+    .ifte p::before {
+        display: none;
+    }
+
+    .banner_text h2 {
+        font-size: 28px;
+    }
+
+    .banner_text h1 {
+        font-size: 45px;
+    }
+
+    .banner_text a {
+        padding: 5px 15px;
+        margin: 20px 8px;
+    }
+
+    /*================= Banner Part End =================*/
+
+    /*================= About Part Start =================*/
+    #about_part {
+        padding: 45px 0;
+    }
+
+    .about_text p {
+        text-align: justify;
+        padding-bottom: 30px;
+    }
+
+    .about_text p span {
+        padding-top: 9px;
+    }
+
+    /*================= About Part End =================*/
+
+    /*================= Gallery Part Start =================*/
+    .vbox-prev span {
+        display: none;
+    }
+
+    .vbox-next span {
+        display: none;
+    }
+
+    /*================= Gallery Part End =================*/
+    /*================= Team Part Start =================*/
+    #team_part {
+        padding: 45px 0;
+    }
+
+    /*================= Team Part End =================*/
+
+    /*================= Membership Part Start =================*/
+    #membership_part {
+        padding: 45px 0;
+    }
+
+    .asad:nth-child(2) {
+        margin: 30px 0;
+    }
+
+    .pricing_text h3 {
+        padding: 10px 0;
+    }
+
+    .pricing_text h2 {
+        padding: 23px 0;
+        font-size: 35px;
+    }
+
+    .pricing_text h2 span {
+        font-size: 25px;
+    }
+
+    .pricing_text ul {
+        padding: 15px 0;
+    }
+
+    .pricing_text ul li {
+        padding-bottom: 8px;
+    }
+
+    /*================= Membership Part End =================*/
+
+    /* Counter Part Start */
+    #counter_part {
+        padding-bottom: 15px;
+    }
+
+    .text_counter {
+        padding: 0 25px 30px;
+    }
+
+    .text_counter h4 {
+        font-size: 28px;
+        padding: 0 10px;
+    }
+
+    .text_counter p {
+        font-size: 11px;
+    }
+
+    /* Counter Part End */
+    /*================= Class Part Start =================*/
+    #class_part {
+        padding: 45px 0;
+    }
+
+    .class_menu li {
+        width: 33.33%;
+        border-bottom: 1px solid #e23e38;
+    }
+
+    .class_text ul li {
+        width: 48.28%;
+        padding: 23px 0;
+    }
+
+    .class_menu li a {
+        font-size: 12px;
+    }
+
+    .class_text ul li:nth-child(5),
+    .class_text ul li:nth-child(10) {
+        margin-right: 5px;
+    }
+
+    .class_text ul li h6 {
+        font-size: 12px;
+    }
+
+    .class_text ul li p {
+        font-size: 11px;
+    }
+
+    .class_text ul li i {
+        font-size: 40px;
+    }
+
+    /*================= Class Part End =================*/
+
+    /*================= Clicnt Part End =================*/
+    .client_logo .col a {
+        margin-bottom: 45px;
+    }
+
+    /*================= Clicnt Part End =================*/
+
+    /*================= Footer Part Start =================*/
+    .footer_logo {
+        padding: 10px 0;
+    }
+
+    .footer_head {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .footer_mid_left p {
+        padding: 0 0 15px 20px;
+    }
+
+    .footer_last_right h5 {
+        padding: 10px 0 10px;
+    }
+
+    .footer_inner p {
+        padding: 10px;
+    }
+
+    /*================= Footer Part End =================*/
+}
+
+@media (max-width: 575px) {
+
+    /*=================  Menu Part Start ================= */
+    .main_menu {
+        top: 0px;
+        background: #e23e38;
+    }
+
+    .main_menu .navbar-brand {
+        width: 200px;
+        height: 50px;
+    }
+
+    .main_menu .navbar-brand img {
+        padding: 0px 28px;
+    }
+
+    .main_menu button i {
+        color: #ffff;
+    }
+
+    .main_menu button:focus {
+        outline: 0;
+    }
+
+    .main_menu .navbar-nav {
+        background: #e23e38;
+        text-align: center;
+        border-top: 1px solid rgba(255, 255, 255, 0.43);
+        padding: 10px 0;
+    }
+
+    .main_menu .navbar-nav .nav-item .nav-link::after {
+        display: none;
+    }
+
+    .main_menu .navbar-nav .nav-item .nav-link {
+        line-height: 40px;
+    }
+
+    /*================= Menu Part End =================*/
+
+    /*================= Banner Part Start =================*/
+    .banner_item {
+        padding: 120px 0 80px;
+    }
+
+    .ifte h2::before {
+        display: none;
+    }
+
+    .ifte h2::after {
+        display: none;
+    }
+
+    .ifte h1::after {
+        display: none;
+    }
+
+    .ifte h1::before {
+        display: none;
+    }
+
+    .ifte p::after {
+        display: none;
+    }
+
+    .ifte p::before {
+        display: none;
+    }
+
+    .banner_text h2 {
+        font-size: 22px;
+    }
+
+    .banner_text h1 {
+        font-size: 40px;
+        padding: 0px 0 7px;
+    }
+
+    .banner_text a {
+        padding: 5px 15px;
+        margin: 20px 8px;
+    }
+
+    /*================= Banner Part End =================*/
+
+    /*================= About Part Start =================*/
+    #about_part {
+        padding: 45px 0;
+    }
+
+    .about_text p {
+        text-align: justify;
+        padding-bottom: 30px;
+    }
+
+    .about_text p span {
+        padding-top: 9px;
+    }
+
+    /*================= About Part End =================*/
+
+    /*================= Gallery Part Start =================*/
+    .vbox-prev span {
+        display: none;
+    }
+
+    .vbox-next span {
+        display: none;
+    }
+
+    /*================= Gallery Part End =================*/
+    /*================= Team Part Start =================*/
+    #team_part {
+        padding: 45px 0;
+    }
+
+    /*================= Team Part End =================*/
+
+    /*================= Membership Part Start =================*/
+    #membership_part {
+        padding: 45px 0;
+    }
+
+    .asad:nth-child(2) {
+        margin: 30px 0;
+    }
+
+    .pricing_text h3 {
+        padding: 10px 0;
+    }
+
+    .pricing_text h2 {
+        padding: 23px 0;
+        font-size: 35px;
+    }
+
+    .pricing_text h2 span {
+        font-size: 25px;
+    }
+
+    .pricing_text ul {
+        padding: 15px 0;
+    }
+
+    .pricing_text ul li {
+        padding-bottom: 8px;
+    }
+
+    /*================= Membership Part End =================*/
+
+    /* Counter Part Start */
+    #counter_part {
+        padding-bottom: 15px;
+    }
+
+    .text_counter {
+        padding: 0 25px 30px;
+    }
+
+    .text_counter h4 {
+        font-size: 28px;
+        padding: 0 10px;
+    }
+
+    .text_counter p {
+        font-size: 11px;
+    }
+
+    /* Counter Part End */
+    /*================= Class Part Start =================*/
+    #class_part {
+        padding: 45px 0;
+    }
+
+    .class_menu li {
+        width: 33.33%;
+        border-bottom: 1px solid #e23e38;
+    }
+
+    .class_text ul li {
+        width: 48.28%;
+        padding: 23px 0;
+    }
+
+    .class_menu li a {
+        font-size: 12px;
+    }
+
+    .class_text ul li:nth-child(5),
+    .class_text ul li:nth-child(10) {
+        margin-right: 5px;
+    }
+
+    .class_text ul li h6 {
+        font-size: 12px;
+    }
+
+    .class_text ul li p {
+        font-size: 11px;
+    }
+
+    .class_text ul li i {
+        font-size: 40px;
+    }
+
+    /*================= Class Part End =================*/
+
+    /*================= Clicnt Part End =================*/
+    .client_logo .col a {
+        margin-bottom: 45px;
+    }
+
+    /*================= Clicnt Part End =================*/
+
+    /*================= Footer Part Start =================*/
+    .footer_logo {
+        padding: 10px 0;
+    }
+
+    .footer_head {
+        padding-top: 5px;
+        padding-bottom: 5px;
+    }
+
+    .footer_mid_left p {
+        padding: 0 0 15px 20px;
+    }
+
+    .footer_last_right h5 {
+        padding: 10px 0 10px;
+    }
+
+    .footer_inner p {
+        padding: 10px;
+    }
+
+    /*================= Footer Part End =================*/
+}
