@@ -1110,6 +1110,7 @@ button:focus {
 
 .footer_last_right ul {
     display: flex;
+    flex-wrap: wrap;
 }
 
 .footer_last_right ul li {
